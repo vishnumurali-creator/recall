@@ -20,3 +20,21 @@ None
 
 # How long did it actually take?
 An hour and a half
+
+## Hour 2 - 18-10-2026
+# What exists now that didn't exist an hour ago?
+Nothing. This log will be the only addition
+
+# One think I can explain now, in my own words, without looking back
+I knwo what are variables, lists, dictionary, functions, for loop in python. i know nesting of lists in a dictionary and vice  versa. i know how to define functions and write loops within the same. I know return and print - that print is a function while return is not and hence doesn't need (). I know how to put Git on Github and that it needs remnaming main branch on git (known as master to main) and that -h in a command gives a list of flags in that command. 
+
+# Whare i got stuck and what unblocked me
+I got stuck while writing a function to take a list of strings as input and return a dictionary that contains the string as key ad its lengths as value. Going back and revising and interacting with the prodcut helped me unblock it. i took hint.
+
+# A question that i am still carrying
+None
+
+# Actual time vs planned
+2 hours 45 minutes vs planned 1 hour
+
+
